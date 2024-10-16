@@ -7,4 +7,4 @@ dependencies:
     - pytest
     - ipytest
     - nbclean
-    
+    - black
