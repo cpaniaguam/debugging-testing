@@ -1,0 +1,6 @@
+name: debugging-testing
+dependencies:
+  - pip
+  - pip:
+    - pytest
+    - ipytest
