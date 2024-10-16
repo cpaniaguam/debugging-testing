@@ -1,6 +1,10 @@
 name: debugging-testing
 dependencies:
+  - jupyterlab
+  - ipykernel
   - pip
   - pip:
     - pytest
     - ipytest
+    - nbclean
+    

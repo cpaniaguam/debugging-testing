@@ -1,2 +1,5 @@
+jupyterlab
+ipykernel
 pytest
 ipytest
+nbclean
